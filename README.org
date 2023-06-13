@@ -1,0 +1,10 @@
+* temporary-file
+
+Common Lisp temporary file creation library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hanshuebner/temporary-file.git   |
+| commit  | 80bb79f  |
+| systems | temporary-file |
+|---------+-------------------------------------------|
+
